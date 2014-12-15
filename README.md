@@ -1,4 +1,4 @@
 pullreq
 =======
 
-練習
+Pull Requestの練習
